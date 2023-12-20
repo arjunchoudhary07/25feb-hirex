@@ -1,0 +1,67 @@
+/*var(--edubin-primary-color);*/
+
+:root {
+    --tutor-primary-color: var(--edubin-primary-color);
+    --tutor-color-primary: var(--edubin-primary-color);
+    --tutor-primary-hover-color: var(--edubin-btn-bg-hover-color);
+    --tutor-primary: var(--edubin-primary-color);
+}
+.text-primary {
+    color: var( --edubin-tertiary-color) !important;
+}
+.tutor-color-primary-60 {
+    color: #fff;
+}
+.tutor-color-muted {
+    color: var(--edubin-content-color);
+}
+.tutor-color-black-60, table.tutor-ui-table .td-list-item .tutor-form-check label, .tutor-default-tab .tab-header-item, .tutor-default-tab .tab-header-item-seemore-toggle, .tutor-course-details-page .tutor-course-details-tab .tab-item-content p {
+    color: var(--edubin-meta-color);
+}
+.tutor-default-tab .tab-header-item{
+   color: var( --edubin-tertiary-color); 
+}
+body.archive.post-type-archive.post-type-archive-courses .tutor-card.tutor-course-card h3.tutor-course-name{
+   color: var( --edubin-tertiary-color); 
+}
+/*Button*/
+.tutor-btn:not(.tutor-is-outline) {
+    background-color: var(--edubin-btn-bg-color);
+    border-color: var(--edubin-btn-border-color);
+    color: var(--edubin-btn-color);
+}
+.tutor-btn:not(.tutor-is-outline):not(.tutor-no-hover):hover {
+    background-color: var(--edubin-btn-bg-hover-color);
+    border-color: var(--edubin-btn-border-hover-color);
+    color: var(--edubin-btn-hover-color);
+}
+
+.tutor-loop-cart-btn-wrap .tutor-btn:not(.tutor-is-outline):not(.tutor-no-hover):hover{
+    background: inherit;
+}
+
+.tutor-btn.tutor-is-outline {
+    background-color: var(--edubin-btn-color);
+    border-color: var(--edubin-btn-border-color);
+    color:  var(--edubin-btn-bg-color);
+}
+.tutor-btn.tutor-is-outline:not(.tutor-no-hover):hover {
+    background-color: var(--edubin-btn-bg-hover-color);
+    border-color: var(--edubin-btn-border-hover-color);
+    color: var(--edubin-btn-hover-color);
+}
+.tutor-btn:not(.tutor-is-outline).tutor-btn-primary {
+    background-color: var(--edubin-btn-bg-color);
+    border-color: var(--edubin-btn-border-color);
+    color: var(--edubin-btn-color);
+}
+.tutor-ratings-stars{
+    color:#ffc601;
+}
+.tutor-ratings-progress-bar .tutor-progress-value {
+    background-color:#ffc601;
+}
+
+.tutor-course-single-content-wraper #tutor-single-entry-content .tutor-single-page-top-bar .tutor-topbar-cross-icon:hover {
+    background: var(--edubin-secondary-color);
+}

@@ -1,0 +1,15 @@
+.elementor-element .icon {
+  position: relative;
+}
+.elementor-element .icon .edubin-icon::after {
+  content: "EDUBIN";
+  font-size: 10px;
+  opacity: 0.4;
+  position: absolute;
+  right: 5px;
+  top: 5px;
+/*  color: #d30c5c;*/
+}
+/*#elementor-panel-category-edubin-addons .elementor-element:hover .icon, #elementor-panel-category-edubin-addons .elementor-element:hover .title {
+  color: #f3bd00;
+}*/

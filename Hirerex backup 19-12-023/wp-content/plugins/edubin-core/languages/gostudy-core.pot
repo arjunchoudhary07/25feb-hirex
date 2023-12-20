@@ -1,0 +1,30 @@
+# Copyright (C) 2022 gostudy-core
+# This file is distributed under the same license as the gostudy-core package.
+msgid ""
+msgstr ""
+"Project-Id-Version: gostudy-core\n"
+"Report-Msgid-Bugs-To: https://www.raistheme.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: RaisTheme <help.raistheme@gmail.com>\n"
+"Language-Team: RaisTheme <https://www.raistheme.com/>\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: includes/widgets/footer_menu.php:68
+msgid "Two Column Menu"
+msgstr ""
+
+#: includes/widgets/footer_menu.php:77
+msgid "Hide Menu Icon"
+msgstr ""
+
+#: includes/widgets/footer_menu.php:84
+msgid "Inline Block"
+msgstr ""
